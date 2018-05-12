@@ -1,0 +1,28 @@
+_repo: The-New-Warden_32388
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Ritchie, David G. (David George), Mrs.
+    alias: Ritchie, Mrs. David G.
+    gutenberg_agent_id: '35819'
+    url: http://www.gutenberg.org/2009/agents/35819
+description: ''
+gutenberg_issued: '2010-05-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '32388'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Mate selection -- Fiction'
+- !lcsh 'University of Oxford -- Fiction'
+- !lcc 'PR'
+- !lcsh 'English fiction'
+- !lcsh 'Love stories'
+title: The New Warden
+url: http://www.gutenberg.org/ebooks/32388
